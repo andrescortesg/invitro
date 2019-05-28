@@ -4,4 +4,11 @@ invitro personal project
 
 Made by Andres Cortes Garcia
 University of Antioquia
-|
+
+things to do:
+	-linear algebra operations:
+		-sum, product (scalar, dot)
+		-transpose
+	-linear regression model 
+		-cost function
+		-gradient descent
